@@ -1,0 +1,14 @@
+.DS_Store
+
+mnistData/*
+!mnistData/.gitkeep
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
